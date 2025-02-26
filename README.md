@@ -2,8 +2,8 @@
 
 <p align="center">
 💻 Engenheiro da Computação | Focado em Python, SQL e AWS  
-🚀 Apaixonado por tecnologia, automação e desenvolvimento Full Stack  
-📚 Sempre aprendendo e compartilhando conhecimento  
+<p>🚀 Apaixonado por tecnologia, automação e desenvolvimento Full Stack</p> 
+<p>📚 Sempre aprendendo e compartilhando conhecimento</p> 
 </p>
 
 ---
