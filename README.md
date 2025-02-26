@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Jackson! 👋</h1>
 
-<p align="center">💻 Engenheiro da Computação e Bacharel em TI com ênfase em IoT| Focado em Python, SQL e AWS</p>  
+<p align="center">💻 Engenheiro da Computação e Bacharel em TI com ênfase em IoT | Focado em Python, SQL e AWS</p>  
 <p align="center">🚀 Apaixonado por tecnologia, automação e desenvolvimento Full Stack</p> 
 <p align="center">📚 Sempre aprendendo e compartilhando conhecimento</p> 
 
