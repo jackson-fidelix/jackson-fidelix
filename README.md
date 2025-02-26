@@ -42,7 +42,7 @@ Se quiser trocar uma ideia, me encontre aqui:
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://www.instagram.com/_jack__tech" target="_blank">
+<a href="(https://www.instagram.com/_jack_tech)" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
 </a>
 
