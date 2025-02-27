@@ -35,6 +35,14 @@ Aqui estão alguns dos meus projetos principais:
 
 ---
 
+### 📊 **Estatísticas do GitHub**
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jackson-fidelix&show_icons=true&theme=radical&hide=prs" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-fidelix&layout=compact&theme=radical" />
+</div>
+
+---
+
 ### 📫 **Contato**
 Se quiser trocar uma ideia, me encontre aqui:  
 
