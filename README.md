@@ -54,6 +54,10 @@ Se quiser trocar uma ideia, me encontre aqui:
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
 </a>
 
+<a href="mailto:jcksfidelix@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white">
+</a>
+
 ✉ **Email:** jcksfidelix@gmail.com  
 
 ---
