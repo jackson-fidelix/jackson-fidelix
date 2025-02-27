@@ -49,11 +49,9 @@ Se quiser trocar uma ideia, me encontre aqui:
 <a href="https://www.instagram.com/_jack_tech" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
 </a>
-
 <a href="https://www.linkedin.com/in/jackson-fidelix-a3b063229" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
 </a>
-
 <a href="mailto:jcksfidelix@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white">
 </a>
