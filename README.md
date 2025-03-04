@@ -38,7 +38,7 @@ Aqui estão alguns dos meus projetos principais:
 ### 📊 **Estatísticas do GitHub**
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jackson-fidelix&show_icons=true&theme=radical&hide=prs&cache_seconds=86400" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-fidelix&layout=compact&theme=radical&cache_seconds=86400" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-fidelix&layout=compact&theme=radical&cache_seconds=86400" /> 
 </div>
 
 ---
