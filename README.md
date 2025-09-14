@@ -45,7 +45,7 @@ Aqui estão alguns dos meus projetos principais:
 ### 📫 **Contato**
 Se quiser trocar uma ideia, me encontre aqui:  
 
-<a href="https://www.instagram.com/_jack_tech" target="_blank">
+<a href="https://www.instagram.com/_jacksonfidelix/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/jackson-fidelix-a3b063229" target="_blank">
