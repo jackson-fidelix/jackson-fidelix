@@ -22,13 +22,12 @@
 ### 🚀 **Projetos Destacados**
 Aqui estão alguns dos meus projetos principais:
 
-🔹 [**Projeto 1**](https://github.com/jackson-fidelix/jack-tech-store) – Sistema de gerenciamento de estoque para lojas de tecnologia 
+🔹 [**Projeto 1**](https://github.com/jackson-fidelix/python-lab/tree/main/numpy) – Chat Pokémon com RAG (Retrieval-Augmented Generation)
 
-🔹 [**Projeto 2**](https://github.com/jackson-fidelix/projeto-integrador-VI) – Sistema de Otimização de Luz (energia, painéis solares e sensores) 
+🔹 [**Projeto 2**](https://github.com/jackson-fidelix/jack-tech-store) – Sistema de gerenciamento de estoque para lojas de tecnologia 
 
-🔹 [**Projeto 3**](https://github.com/jackson-fidelix/to-do-list-javascript) – Trello + ToDo - unindo o melhor dos dois mundos
+🔹 [**Projeto 3**](https://github.com/jackson-fidelix/projeto-integrador-VI) – Sistema de Otimização de Luz (energia, painéis solares e sensores) 
 
-🔹 [**Projeto 4**](https://github.com/jackson-fidelix/python-lab) – Projetos e experimentos desenvolvidos em Python (interface, automação e scripts úteis)
 
 ➡️ Veja mais em [**Meus Repositórios**](https://github.com/jackson-fidelix?tab=repositories)  
 
@@ -55,22 +54,6 @@ Se quiser trocar uma ideia, me encontre aqui:
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white">
 </a>
 
-
 ---
 
 🌱 **Se algum projeto for útil para você, considere deixar uma estrela!**  
-
-<!--
-**jackson-fidelix/jackson-fidelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
