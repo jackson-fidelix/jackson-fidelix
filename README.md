@@ -4,7 +4,6 @@
 <p align="center">🚀 Apaixonado por tecnologia, automação e desenvolvimento Full Stack</p> 
 <p align="center">📚 Sempre aprendendo e compartilhando conhecimento</p> 
 
-
 ---
 
 ### 🛠 **Tecnologias e Ferramentas**
