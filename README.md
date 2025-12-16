@@ -21,7 +21,7 @@
 ### 🚀 **Projetos Destacados**
 Aqui estão alguns dos meus projetos principais:
 
-🔹 [**Projeto 1**](https://github.com/jackson-fidelix/python-lab/tree/main/numpy) – Chat Pokémon com RAG (Retrieval-Augmented Generation)
+🔹 [**Projeto 1**](https://github.com/jackson-fidelix/pokemon-ai) – Chat Pokémon com RAG (Retrieval-Augmented Generation)
 
 🔹 [**Projeto 2**](https://github.com/jackson-fidelix/jack-tech-store) – Sistema de gerenciamento de estoque para lojas de tecnologia 
 
