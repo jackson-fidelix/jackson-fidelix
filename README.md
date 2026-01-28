@@ -66,15 +66,15 @@ Aqui estão alguns dos meus projetos principais:
 ### 📫 **Contato**
 Se quiser trocar uma ideia, me encontre aqui:  
 
-<a href="https://www.instagram.com/_jacksonfidelix/" target="_blank">
+<a href="https://www.instagram.com/_jacksonfidelix/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/jackson-fidelix-a3b063229" target="_blank">
+<a href="https://www.linkedin.com/in/jackson-fidelix-a3b063229" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:jcksfidelix@gmail.com">
+<a href="mailto:jcksfidelix@gmail.com" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white">
 </a>
 
