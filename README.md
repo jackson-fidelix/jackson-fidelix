@@ -24,10 +24,13 @@ Aqui estão alguns dos meus projetos principais:
 
 🔹 [**Projeto 1**](https://github.com/jackson-fidelix/pokemon-ai) – Chat Pokémon com RAG (Retrieval-Augmented Generation)
 
-🔹 [**Projeto 2**](https://github.com/jackson-fidelix/jack-tech-store) – Sistema de gerenciamento de estoque para lojas de tecnologia 
+🔹 [**Projeto 2**](https://github.com/jackson-fidelix/seed-ai) – Seed AI – o amigo cristão que escuta, acolhe e aponta para Jesus
 
-🔹 [**Projeto 3**](https://github.com/jackson-fidelix/projeto-integrador-VI) – Sistema de Otimização de Luz (energia, painéis solares e sensores) 
+🔹 [**Projeto 3**](https://github.com/jackson-fidelix/jack-tech-store) – Sistema de gerenciamento de estoque para lojas de tecnologia 
 
+🔹 [**Projeto 4**](https://github.com/jackson-fidelix/projeto-integrador-VI) – Sistema de Otimização de Luz (energia, painéis solares e sensores) 
+
+🔹 [**Projeto 5**](https://github.com/jackson-fidelix/sales-hub) – Sistema web para registro de vendas, com integração ViaCEP e exibição dinâmica de dados
 
 ➡️ Veja mais em [**Meus Repositórios**](https://github.com/jackson-fidelix?tab=repositories)  
 
